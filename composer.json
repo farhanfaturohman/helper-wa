@@ -1,0 +1,21 @@
+{
+    "name": "farhanfaturohman/whatsapp-3rdparty-php",
+    "description": "Whatsapp API Third Party PHP Library",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Farhan Faturohman",
+            "email": "farhanfaturohmen@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "farhanfaturohman\\WAQiscus\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
