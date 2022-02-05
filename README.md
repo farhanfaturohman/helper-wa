@@ -1,5 +1,5 @@
 ## Instalation
 Install with composer:
 ```
-composer require farhanfaturohman/helper-wa
+composer require farhanfaturohman/whatsapp-3rdparty-php
 ```
